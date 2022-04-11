@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "TelaInicial/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TelaInicial.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TelaInicial.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "TelaInicial/1.0.0": {
+      "type": "project",
+      "path": "../TelaInicial/TelaInicial.csproj",
+      "msbuildProject": "../TelaInicial/TelaInicial.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "TelaInicial >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Guilherme Salgado\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Guilherme Salgado\\Desktop\\MedClin\\MedClinApp\\MedClinApp\\MedClinApp.csproj",
+      "projectName": "MedClinApp",
+      "projectPath": "C:\\Users\\Guilherme Salgado\\Desktop\\MedClin\\MedClinApp\\MedClinApp\\MedClinApp.csproj",
+      "packagesPath": "C:\\Users\\Guilherme Salgado\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Guilherme Salgado\\Desktop\\MedClin\\MedClinApp\\MedClinApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Guilherme Salgado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Guilherme Salgado\\Desktop\\MedClin\\MedClinApp\\TelaInicial\\TelaInicial.csproj": {
+              "projectPath": "C:\\Users\\Guilherme Salgado\\Desktop\\MedClin\\MedClinApp\\TelaInicial\\TelaInicial.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

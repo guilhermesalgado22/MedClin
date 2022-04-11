@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MedClinApp/1.0.0": {
+        "dependencies": {
+          "TelaInicial": "1.0.0"
+        },
+        "runtime": {
+          "MedClinApp.dll": {}
+        }
+      },
+      "TelaInicial/1.0.0": {
+        "runtime": {
+          "TelaInicial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedClinApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelaInicial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

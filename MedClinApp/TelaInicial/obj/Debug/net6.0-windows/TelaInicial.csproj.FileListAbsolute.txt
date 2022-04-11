@@ -1,0 +1,17 @@
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\bin\Debug\net6.0-windows\TelaInicial.exe
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\bin\Debug\net6.0-windows\TelaInicial.deps.json
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\bin\Debug\net6.0-windows\TelaInicial.runtimeconfig.json
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\bin\Debug\net6.0-windows\TelaInicial.dll
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\bin\Debug\net6.0-windows\TelaInicial.pdb
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.csproj.AssemblyReference.cache
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.TelaInicial.resources
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.csproj.GenerateResource.cache
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.AssemblyInfoInputs.cache
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.AssemblyInfo.cs
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.dll
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\refint\TelaInicial.dll
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.pdb
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\TelaInicial.genruntimeconfig.cache
+C:\Users\Guilherme Salgado\Desktop\MedClin\MedClinApp\TelaInicial\obj\Debug\net6.0-windows\ref\TelaInicial.dll
